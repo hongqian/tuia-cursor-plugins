@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yunfan": {
+      "command": "npx",
+      "args": ["yunfan-mcp"]
+    }
+  }
+}

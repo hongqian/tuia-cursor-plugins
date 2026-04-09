@@ -1,0 +1,9 @@
+{
+  "name": "yunfan",
+  "displayName": "云帆质量管理",
+  "author": "duiba",
+  "description": "通过云帆 MCP 查询和分析项目质量数据，覆盖问题单、线上答疑、质量统计等场景",
+  "keywords": ["yunfan", "BUG", "质量管理", "问题单"],
+  "license": "UNLICENSED",
+  "version": "1.0.0"
+}

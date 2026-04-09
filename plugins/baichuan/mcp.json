@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "baichuan": {
+      "command": "npx",
+      "args": ["baichuan-mcp"],
+      "env": {
+        "BAICHUAN_BASE_URL": "https://bc.dui88.com"
+      }
+    }
+  }
+}
