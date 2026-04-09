@@ -1,7 +1,7 @@
 {
   "name": "baichuan",
   "displayName": "百川需求管理",
-  "author": "duiba",
+  "author": "tuia",
   "description": "通过百川 MCP 查询和分析项目迭代需求，支持按人员、时间、阶段、版本等多维度筛选",
   "keywords": ["baichuan", "需求", "项目管理", "迭代"],
   "license": "UNLICENSED",

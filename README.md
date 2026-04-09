@@ -1,6 +1,6 @@
-# 兑吧团队 Cursor 插件
+# 推啊团队 Cursor 插件
 
-兑吧团队内部 Cursor 插件市场，包含以下插件：
+推啊团队内部 Cursor 插件市场，包含以下插件：
 
 | 插件 | 说明 |
 |------|------|
@@ -10,7 +10,7 @@
 ## 目录结构
 
 ```
-duiba-cursor-plugins/
+tuia-cursor-plugins/
 ├── .cursor-plugin/
 │   └── marketplace.json          # 市场清单
 ├── plugins/
