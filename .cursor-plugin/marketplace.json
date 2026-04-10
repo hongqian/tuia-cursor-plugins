@@ -1,7 +1,10 @@
 {
   "name": "tuia-team-plugins",
+  "owner": {
+    "name": "Tuia Team"
+  },
   "metadata": {
-    "description": "A set of starter plugins for your Cursor trial.",
+    "description": "推啊团队内部 Cursor 插件市场，包含百川需求管理、云帆质量管理等插件",
     "version": "0.1.0",
     "pluginRoot": "plugins"
   },
