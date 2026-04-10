@@ -1,0 +1,12 @@
+{
+  "name": "yuque",
+  "displayName": "语雀文档管理",
+  "version": "1.0.0",
+  "description": "通过语雀 MCP 操作知识库、文档、团队和目录，支持搜索、创建、更新、删除等全流程文档协作",
+  "author": {
+    "name": "Tuia Team"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["yuque", "语雀", "文档", "知识库"],
+  "logo": "https://cdn.nlark.com/yuque/0/2023/png/26359247/1675771527845-avatar/751096a9-bf69-469f-aeb3-275af5a86620.png?x-oss-process=image%2Fresize%2Cm_fill%2Cw_32%2Ch_32%2Fformat%2Cpng"
+}

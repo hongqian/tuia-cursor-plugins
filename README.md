@@ -6,6 +6,7 @@
 |------|------|
 | [百川需求管理](./plugins/baichuan/) | 通过百川 MCP 查询和分析项目迭代需求 |
 | [云帆质量管理](./plugins/yunfan/) | 通过云帆 MCP 查询和分析项目质量数据 |
+| [语雀文档管理](./plugins/yuque/) | 通过语雀 MCP 操作知识库、文档、团队和目录，支持全流程文档协作 |
 
 ## 目录结构
 
@@ -21,13 +22,20 @@ tuia-cursor-plugins/
 │   │   │   └── SKILL.md
 │   │   ├── mcp.json
 │   │   └── README.md
-│   └── yunfan/                   # 云帆质量管理插件
+│   ├── yunfan/                   # 云帆质量管理插件
+│   │   ├── .cursor-plugin/
+│   │   │   └── plugin.json
+│   │   ├── skills/
+│   │   │   └── SKILL.md
+│   │   ├── mcp.json
+│   │   └── README.md
+│   └── yuque/                    # 语雀文档管理插件
 │       ├── .cursor-plugin/
 │       │   └── plugin.json
 │       ├── skills/
-│       │   └── SKILL.md
-│       ├── mcp.json
-│       └── README.md
+│       │   └── yuque-mcp/
+│       │       └── SKILL.md
+│       └── mcp.json
 └── README.md
 ```
 

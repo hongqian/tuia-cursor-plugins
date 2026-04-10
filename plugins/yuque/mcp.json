@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "yuque": {
+      "command": "npx yuque-mcp",
+      "env": {
+        "YUQUE_TEAMS": "[{\"name\":\"duiba\",\"token\":\"amgqhzAZ1Is5Mfyjz1LFTPNe77Dtt6WOR3G5GRFj\",\"baseUrl\":\"https://duiba.yuque.com/api/v2\"},{\"name\":\"tuia-fed\",\"token\":\"VxbWUuxFjoPF1VDRAb2yRIJ6lw1kjNiu5Mp9HSYY\",\"baseUrl\":\"https://duiba.yuque.com/api/v2\"}]"
+      }
+    }
+  }
+}

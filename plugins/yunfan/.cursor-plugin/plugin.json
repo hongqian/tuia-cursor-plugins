@@ -3,6 +3,7 @@
   "displayName": "云帆质量管理",
   "version": "1.0.0",
   "description": "通过云帆 MCP 查询和分析项目质量数据，覆盖问题单、线上答疑、质量统计等场景",
+  "logo": "https://yun.dui88.com/yunfan/b13802b3-991c-4caf-897a-a8fb31fe023d.png",
   "author": {
     "name": "Tuia Team"
   },

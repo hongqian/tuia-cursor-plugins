@@ -3,6 +3,7 @@
   "displayName": "百川需求管理",
   "version": "1.0.0",
   "description": "通过百川 MCP 查询和分析项目迭代需求，支持按人员、时间、阶段、版本等多维度筛选",
+  "logo": "https://yun.tuia.cn/tuia/cdn/img/baichuan2.png",
   "author": {
     "name": "Tuia Team"
   },
