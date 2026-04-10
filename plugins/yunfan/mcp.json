@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "yunfan": {
-      "command": "npx",
+      "command": "https://docs.langchain.com/mcp",
       "args": ["yunfan-mcp"]
     }
   }
