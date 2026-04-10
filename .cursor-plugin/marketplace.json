@@ -1,17 +1,22 @@
 {
   "name": "tuia-team-plugins",
+  "metadata": {
+    "description": "A set of starter plugins for your Cursor trial.",
+    "version": "0.1.0",
+    "pluginRoot": "plugins"
+  },
   "plugins": [
     {
       "name": "baichuan",
       "description": "通过百川 MCP 查询和分析项目迭代需求，支持按人员、时间、阶段、版本等多维度筛选",
       "version": "1.0.0",
-      "source": "./plugins/baichuan"
+      "source": "baichuan"
     },
     {
       "name": "yunfan",
       "description": "通过云帆 MCP 查询和分析项目质量数据，覆盖问题单、线上答疑、质量统计等场景",
       "version": "1.0.0",
-      "source": "./plugins/yunfan"
+      "source": "yunfan"
     }
   ]
 }
