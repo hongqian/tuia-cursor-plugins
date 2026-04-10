@@ -1,8 +1,7 @@
 {
   "mcpServers": {
     "yunfan": {
-      "url": "https://mcp.atlassian.com/v1/mcp",
-      "headers": {}
+      "command": "npx yunfan-mcp"
     }
   }
 }
