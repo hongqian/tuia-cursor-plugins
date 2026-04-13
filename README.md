@@ -7,6 +7,7 @@
 | [百川需求管理](./plugins/baichuan/) | 通过百川 MCP 查询和分析项目迭代需求 |
 | [云帆质量管理](./plugins/yunfan/) | 通过云帆 MCP 查询和分析项目质量数据 |
 | [语雀文档管理](./plugins/yuque/) | 通过语雀 MCP 操作知识库、文档、团队和目录，支持全流程文档协作 |
+| [后台项目开发规范](./plugins/dev-manager/) | 聚推后台项目模板（React + TypeScript + Vite + Ant Design + ahooks + Tailwind）开发规范 Skill |
 
 ## 目录结构
 
@@ -29,13 +30,19 @@ tuia-cursor-plugins/
 │   │   │   └── SKILL.md
 │   │   ├── mcp.json
 │   │   └── README.md
-│   └── yuque/                    # 语雀文档管理插件
+│   ├── yuque/                    # 语雀文档管理插件
+│   │   ├── .cursor-plugin/
+│   │   │   └── plugin.json
+│   │   ├── skills/
+│   │   │   └── yuque-mcp/
+│   │   │       └── SKILL.md
+│   │   └── mcp.json
+│   └── dev-manager/              # 后台项目开发规范插件
 │       ├── .cursor-plugin/
 │       │   └── plugin.json
-│       ├── skills/
-│       │   └── yuque-mcp/
-│       │       └── SKILL.md
-│       └── mcp.json
+│       └── skills/
+│           └── dev-manager/
+│               └── SKILL.md
 └── README.md
 ```
 

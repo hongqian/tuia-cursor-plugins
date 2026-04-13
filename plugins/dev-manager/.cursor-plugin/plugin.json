@@ -1,0 +1,11 @@
+{
+  "name": "dev-manager",
+  "displayName": "后台项目开发规范",
+  "version": "1.0.0",
+  "description": "聚推后台项目模板（React + TypeScript + Vite + Ant Design + ahooks + Tailwind）开发规范 Skill，涵盖需求前置流程、代码规范与执行检查清单",
+  "author": {
+    "name": "Tuia Team"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["dev-manager", "后台项目", "开发规范", "聚推"]
+}
